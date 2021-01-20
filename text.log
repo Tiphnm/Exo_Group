@@ -1,0 +1,46 @@
+2021-01-16 16:01:29,249:INFO:getting text file: start
+2021-01-16 16:01:29,249:INFO:getting text file: end
+2021-01-16 16:01:29,249:INFO:Splitting my file into a list: start
+2021-01-16 16:01:29,249:INFO:Splitting my file into a list: end
+2021-01-16 16:01:29,249:INFO:Creating my final list of group in Json: start
+2021-01-16 16:01:29,249:INFO:Executing my function: start
+2021-01-16 16:01:29,250:INFO:{'Groupe': ['Marwa', 'Carina']}
+2021-01-16 16:01:29,250:INFO:{'Groupe': ['Bernard', 'Maria']}
+2021-01-16 16:01:29,250:INFO:{'Groupe': ['Tiphaine', 'Jordan']}
+2021-01-16 16:01:29,250:INFO:Executing my function: end
+2021-01-16 16:01:29,250:INFO:Creating my final list of group in Json: end
+2021-01-20 14:40:10,393:INFO:getting text file: start
+2021-01-20 14:40:10,394:INFO:getting text file: end
+2021-01-20 14:40:10,395:INFO:Splitting my file into a list: start
+2021-01-20 14:40:10,395:INFO:Splitting my file into a list: end
+2021-01-20 14:40:10,395:INFO:Creating my final list of group in Json: start
+2021-01-20 14:40:10,395:INFO:Executing my function: start
+2021-01-20 14:40:10,395:INFO:{'Groupe': ['Marwa', 'Bernard']}
+2021-01-20 14:40:10,395:INFO:{'Groupe': ['Carina', 'Maria']}
+2021-01-20 14:40:10,396:INFO:{'Groupe': ['David', 'Tiphaine']}
+2021-01-20 14:40:10,396:INFO:Executing my function: end
+2021-01-20 14:40:10,396:INFO:Creating my final list of group in Json: end
+2021-01-20 14:40:38,985:INFO:getting text file: start
+2021-01-20 14:40:38,985:INFO:getting text file: end
+2021-01-20 14:40:38,986:INFO:Splitting my file into a list: start
+2021-01-20 14:40:38,986:INFO:Splitting my file into a list: end
+2021-01-20 14:40:38,986:INFO:Creating my final list of group in Json: start
+2021-01-20 14:40:38,986:INFO:Executing my function: start
+2021-01-20 14:40:38,986:INFO:{'Groupe': ['Carina', '']}
+2021-01-20 14:40:38,986:INFO:{'Groupe': ['Maria', 'Marwa']}
+2021-01-20 14:40:38,986:INFO:{'Groupe': ['Farouk', 'Bernard']}
+2021-01-20 14:40:38,986:INFO:{'Groupe': ['David', 'Jordan']}
+2021-01-20 14:40:38,986:INFO:Executing my function: end
+2021-01-20 14:40:38,987:INFO:Creating my final list of group in Json: end
+2021-01-20 14:40:55,723:INFO:getting text file: start
+2021-01-20 14:40:55,723:INFO:getting text file: end
+2021-01-20 14:40:55,723:INFO:Splitting my file into a list: start
+2021-01-20 14:40:55,723:INFO:Splitting my file into a list: end
+2021-01-20 14:40:55,723:INFO:Creating my final list of group in Json: start
+2021-01-20 14:40:55,724:INFO:Executing my function: start
+2021-01-20 14:40:55,724:INFO:{'Groupe': ['Carina', 'Maria']}
+2021-01-20 14:40:55,724:INFO:{'Groupe': ['Jordan', 'Tiphaine']}
+2021-01-20 14:40:55,724:INFO:{'Groupe': ['Bernard', 'Marwa']}
+2021-01-20 14:40:55,724:INFO:{'Groupe': ['Farouk', 'David']}
+2021-01-20 14:40:55,724:INFO:Executing my function: end
+2021-01-20 14:40:55,725:INFO:Creating my final list of group in Json: end
